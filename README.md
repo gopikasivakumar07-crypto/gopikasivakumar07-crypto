@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gopika Sivakumar Reddy
 
-### 💻 M.Tech Software Engineering Student | 🤖 AI/ML Enthusiast | 🔬 Researcher
+### M.Tech Software Engineering Student | AI/ML Enthusiast | Researcher
 
 I'm an M.Tech Software Engineering student with a strong interest in
 Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision,
@@ -12,17 +12,6 @@ real-world problems.
 
 ---
 
-## 🚀 About Me
-
-- 🎓 M.Tech Software Engineering
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 🧠 Exploring Deep Learning and Computer Vision
-- 🔍 Interested in Explainable AI (XAI)
-- 🔬 Passionate about research and innovation
-- 💻 Building software and AI-powered applications
-- 📚 Continuously learning new technologies and frameworks
-
----
 
 ## 🛠️ Technical Skills
 
@@ -41,21 +30,7 @@ real-world problems.
 - Keras
 - OpenCV
 
-### Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
-</p>
-
-### Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,jenkins,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 SensoryPlate
+### SensoryPlate
 An AI-powered sensory food analysis and personalized food recommendation
 system designed to analyze sensory characteristics and provide
 personalized food choices.
@@ -64,7 +39,7 @@ personalized food choices.
 
 ---
 
-### 🏥 Patient Record Management System (PRMS)
+### Patient Record Management System (PRMS)
 A digital patient record management system designed to organize and manage
 patient-related information through a software-based platform.
 
@@ -72,7 +47,7 @@ patient-related information through a software-based platform.
 
 ---
 
-### 🚗 Smart Parking Booking System
+### Smart Parking Booking System
 A web-based parking management platform that allows users to find and
 reserve parking spaces based on location and availability.
 
@@ -80,7 +55,7 @@ reserve parking spaces based on location and availability.
 
 ---
 
-### 💰 Payroll Management System
+### Payroll Management System
 A software system designed to manage employee payroll processes including
 salary calculation, deductions, bonuses, and related information.
 
@@ -88,32 +63,3 @@ salary calculation, deductions, bonuses, and related information.
 
 ---
 
-## 🔬 Research Interests
-
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Explainable AI
-- Medical AI
-- AI for Healthcare
-- Neurodevelopmental Disorders
-- Digital Pathology
-- Intelligent Decision Support Systems
-
----
-
-## 📊 Areas I'm Currently Exploring
-
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Computer Vision
-        ↓
-Explainable AI
-        ↓
-AI Research & Real-World Applications
