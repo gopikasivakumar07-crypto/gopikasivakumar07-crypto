@@ -1,4 +1,4 @@
-#Hi, I'm Gopika Sivakumar Reddy
+# Hi, I'm Gopika Sivakumar Reddy
 
 ### M.Tech Software Engineering Student | AI/ML Enthusiast | Researcher
 
