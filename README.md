@@ -1,16 +1,119 @@
-## Hi there 👋
+# 👋 Hi, I'm Gopika Sivakumar Reddy
 
-<!--
-**gopikasivakumar07-crypto/gopikasivakumar07-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 M.Tech Software Engineering Student | 🤖 AI/ML Enthusiast | 🔬 Researcher
 
-Here are some ideas to get you started:
+I'm an M.Tech Software Engineering student with a strong interest in
+Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision,
+Explainable AI, and research-oriented software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building intelligent systems, experimenting with machine learning
+models, developing full-stack applications, and exploring AI solutions for
+real-world problems.
+
+---
+
+## 🚀 About Me
+
+- 🎓 M.Tech Software Engineering
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🧠 Exploring Deep Learning and Computer Vision
+- 🔍 Interested in Explainable AI (XAI)
+- 🔬 Passionate about research and innovation
+- 💻 Building software and AI-powered applications
+- 📚 Continuously learning new technologies and frameworks
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,c" />
+</p>
+
+### AI / Machine Learning
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Explainable AI
+- TensorFlow
+- PyTorch
+- Keras
+- OpenCV
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+</p>
+
+### Databases & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,jenkins,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 SensoryPlate
+An AI-powered sensory food analysis and personalized food recommendation
+system designed to analyze sensory characteristics and provide
+personalized food choices.
+
+**Tech:** Python • React • Vite • Tailwind CSS • SQLite • AI
+
+---
+
+### 🏥 Patient Record Management System (PRMS)
+A digital patient record management system designed to organize and manage
+patient-related information through a software-based platform.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 🚗 Smart Parking Booking System
+A web-based parking management platform that allows users to find and
+reserve parking spaces based on location and availability.
+
+**Tech:** HTML • CSS • JavaScript
+
+---
+
+### 💰 Payroll Management System
+A software system designed to manage employee payroll processes including
+salary calculation, deductions, bonuses, and related information.
+
+**Tech:** Java • Maven
+
+---
+
+## 🔬 Research Interests
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Explainable AI
+- Medical AI
+- AI for Healthcare
+- Neurodevelopmental Disorders
+- Digital Pathology
+- Intelligent Decision Support Systems
+
+---
+
+## 📊 Areas I'm Currently Exploring
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Deep Learning
+        ↓
+Computer Vision
+        ↓
+Explainable AI
+        ↓
+AI Research & Real-World Applications
