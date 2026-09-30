@@ -13,7 +13,7 @@ real-world problems.
 ---
 
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 <p>
