@@ -1,6 +1,6 @@
 # Hi, I'm Gopika Sivakumar Reddy
 
-### M.Tech Software Engineering Student | AI/ML Enthusiast | Researcher
+### M.Tech Software Engineering Student | AI/ML Enthusiast
 
 I'm an M.Tech Software Engineering student with a strong interest in
 Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision,
